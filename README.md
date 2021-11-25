@@ -8,5 +8,4 @@ https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%201.2.docx
 Aufgabe 2:
 https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%202.docx
 
-Aufgabe 3:
-https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%203.docx
+
