@@ -9,6 +9,6 @@ Aufgabe 2:
 https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%202.docx
 
 Aufgabe 7:
-https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%207.docx
+
 
 
