@@ -12,6 +12,6 @@ Aufgabe 7:
 https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%207.docx
 
 Aufgabe 8:
-
+https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%208.docx
 
 
