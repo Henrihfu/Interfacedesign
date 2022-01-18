@@ -17,3 +17,5 @@ https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%208.docx
 Aufgabe 10:
 https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%2010%20-%20VUI-Konzept.docx
 
+Aufgabe 11:
+https://github.com/Henrihfu/Interfacedesign/blob/main/Aufgabe%2011.docx
